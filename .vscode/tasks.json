@@ -1,0 +1,37 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "release Nabu",
+            "type": "shell",
+            "command": "mingw32-make all",
+        },
+        {
+            "label": "debug Nabu",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "-c",
+                "lib/sqlite3.c",
+                "-o",
+                "build/Sqlite3.o",
+                "&&",
+                "g++",
+                "-g",
+                "src/Main.cpp",
+                "src/Collections/DictionaryCollection.cpp",
+                "src/Collections/WordCollection.cpp",                
+                "src/Helpers/CommandHelper.cpp", 
+                "src/Helpers/SQLiteHelper.cpp",
+                "src/Helpers/StringHelper.cpp",
+                "src/Models/Dictionary.cpp",
+                "src/Models/Word.cpp",
+                "build/Sqlite3.o",
+                "-o", 
+                "bin/Main"
+            ]
+        }
+    ]
+}
