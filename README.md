@@ -32,7 +32,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors
 
-* **Johan Van Steenbrugghe** - *Initial work* - [Github Account](https://github.com/JohanVanSteenbrugghe)
+* **Johan Van Steenbrugghe** - *Copyright holder* - [Github Account](https://github.com/JohanVanSteenbrugghe)
 
 ## License
 
