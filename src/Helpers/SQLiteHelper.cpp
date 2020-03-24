@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "../../Include/Helpers/SQLiteHelper.hpp"
 
-const char* _FilePath = "Nabu.db";
+const char* _FilePath = "Seshat.db";
 
 bool SQLiteHelper::SetupDatabase(){
     sqlite3 *db;

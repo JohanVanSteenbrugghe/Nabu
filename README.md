@@ -1,12 +1,12 @@
-# Nabu
+# Seshat
 
-This is a C++ project that seperates words from .txt files, counts and saves them into an SQLite database. 
+This is a C++ project that separates words from .txt files, counts and saves them into an SQLite database. 
 
 ## Project Name
 
-I always use ancient mythical beings/deities for my project names, the project name '[Nabu](https://en.wikipedia.org/wiki/Nabu)' is a reference to the Mesopotamian god associated with concepts like literacy and scribing.
+I always use ancient mythical beings/deities for my project names, the project name '[Seshat](https://en.wikipedia.org/wiki/Seshat)' is a reference to the Egyptian goddess associated with scribing, accounting and record-keeping.
 
-## Purpuse
+## Purpose
 
 The biggest reason why I made this a C++ project was to build a deeper understanding on how programming languages work. Working with a compiler in a command prompt, makefile, garbage collection, pointers, references to other classes and libraries, etc... Most of these things are done automatically in most high-level programming languages. Using C++ (a mid-range language) allows me to improve my understanding without losing some of the abstraction like object-oriented design that you can't use in low-level languages.
 
@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. Install Mingw-w64 (guide in resources section)
 3. Make sure that the folder which has the compiler executables (g++, c++, etc...), can be accessed globally (everywhere) in the command prompt
 4. Download the files from github
-5. Add the Nabu folder to the Visual Studio Code workspace
+5. Add the Seshat folder to the Visual Studio Code workspace
 6. If necessary change the compiler and debugger path in the launch.json
 7. Start the debug or release tasks to start developing
 

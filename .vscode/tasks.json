@@ -4,12 +4,12 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "release Nabu",
+            "label": "release Seshat",
             "type": "shell",
             "command": "mingw32-make all",
         },
         {
-            "label": "debug Nabu",
+            "label": "debug Seshat",
             "type": "shell",
             "command": "gcc",
             "args": [

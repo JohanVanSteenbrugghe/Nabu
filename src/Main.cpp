@@ -7,7 +7,7 @@
 
 int main(){
     if (SQLiteHelper::SetupDatabase()){
-        std::cout << "Nabu" << std::endl;
+        std::cout << "Seshat" << std::endl;
     } 
     else{
         std::cout << "Database error!" << std::endl;
@@ -175,13 +175,13 @@ int main(){
             std::cout << "word -list -cd            Shows the list of all words. Ordered by count descending." << std::endl;
             std::cout << "help                      Shows the manual." << std::endl;
             std::cout << "clean                     Clears the console." << std::endl;
-            std::cout << "exit                      Exits Nabu program." << std::endl;
+            std::cout << "exit                      Exits Seshat program." << std::endl;
         }
         else if (command == "clean"){
             for (int i = 0; i < 100; i++){
                 std::cout << std::endl;
             }
-            std::cout << "Nabu" << std::endl;
+            std::cout << "Seshat" << std::endl;
         }
         else if (command == "exit"){
             break;
