@@ -4,12 +4,12 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "release Seshat",
+            "label": "release WordCounter",
             "type": "shell",
             "command": "mingw32-make all",
         },
         {
-            "label": "debug Seshat",
+            "label": "debug WordCounter",
             "type": "shell",
             "command": "gcc",
             "args": [

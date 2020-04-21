@@ -1,10 +1,6 @@
-# Seshat
+# WordCounter
 
 This is a C++ project that separates words from .txt files, counts and saves them into an SQLite database. 
-
-## Project Name
-
-I always use ancient mythical beings/deities for my project names, the project name '[Seshat](https://en.wikipedia.org/wiki/Seshat)' is a reference to the Egyptian goddess associated with scribing, accounting and record-keeping.
 
 ## Purpose
 
@@ -18,7 +14,7 @@ These instructions will get you a copy of the project up and running on your loc
 2. Install Mingw-w64 (guide in resources section)
 3. Make sure that the folder which has the compiler executables (g++, c++, etc...), can be accessed globally (everywhere) in the command prompt
 4. Download the files from github
-5. Add the Seshat folder to the Visual Studio Code workspace
+5. Add the WordCounter folder to the Visual Studio Code workspace
 6. If necessary change the compiler and debugger path in the launch.json
 7. Start the debug or release tasks to start developing
 
