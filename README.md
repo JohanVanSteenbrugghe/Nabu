@@ -1,6 +1,6 @@
 # WordCounter
 
-This is a C++ project that separates words from .txt files, counts and saves them into an SQLite database. 
+This is a C++ project that separates words from a .txt file, counts and saves them into an SQLite database. 
 
 ## Purpose
 
