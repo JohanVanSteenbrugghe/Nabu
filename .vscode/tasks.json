@@ -17,7 +17,6 @@
                 "lib/sqlite3.c",
                 "-o",
                 "build/Sqlite3.o",
-                "&&",
                 "g++",
                 "-g",
                 "src/Main.cpp",

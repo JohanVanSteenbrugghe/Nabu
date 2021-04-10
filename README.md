@@ -6,6 +6,10 @@ This is a C++ project that separates words from a .txt file, counts and saves th
 
 The biggest reason why I made this a C++ project was to build a deeper understanding on how programming languages work. Working with a compiler in a command prompt, makefile, garbage collection, pointers, references to other classes and libraries, etc... Most of these things are done automatically in most high-level programming languages. Using C++ (a mid-range language) allows me to improve my understanding without losing some of the abstraction like object-oriented design that you can't use in low-level languages.
 
+## Website
+
+[https://github.com/JohanVanSteenbrugghe/WordCounter](https://github.com/JohanVanSteenbrugghe/WordCounter)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purposes.
@@ -26,6 +30,11 @@ These instructions will get you a copy of the project up and running on your loc
 * [Mingw-w64](https://mingw-w64.org/doku.php) - C++ Compiler
 * [SQLite3](https://www.sqlite.org/index.html) - Database System
 
+## Technologies
+
+* C++
+* SQLLite
+
 ## Authors
 
 * **Johan Van Steenbrugghe** - *Copyright holder* - [Github Account](https://github.com/JohanVanSteenbrugghe)
@@ -43,3 +52,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 * [http://www.cplusplus.com/doc/tutorial/](http://www.cplusplus.com/doc/tutorial/)
 * [https://www.sqlite.org/sitemap.html#pindex](https://www.sqlite.org/sitemap.html#pindex)
 * [https://stackoverflow.com/](https://stackoverflow.com/)
+
+## Images
+
+![image1](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image1.png?raw=true)
+![image2](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image2.png?raw=true)
+![image3](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image3.png?raw=true)
+![image4](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image4.png?raw=true)
+![image5](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image5.png?raw=true)
+![image6](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image6.png?raw=true)
