@@ -55,9 +55,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Images
 
-![image1](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image1.png?raw=true)
-![image2](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image2.png?raw=true)
-![image3](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image3.png?raw=true)
-![image4](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image4.png?raw=true)
-![image5](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image5.png?raw=true)
-![image6](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/Images/image6.png?raw=true)
+![image1](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/images/image1.png?raw=true)
+![image2](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/images/image2.png?raw=true)
+![image3](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/images/image3.png?raw=true)
+![image4](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/images/image4.png?raw=true)
+![image5](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/images/image5.png?raw=true)
+![image6](https://github.com/JohanVanSteenbrugghe/WordCounter/blob/master/images/image6.png?raw=true)
